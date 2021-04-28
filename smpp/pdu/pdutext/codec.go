@@ -22,6 +22,7 @@ const (
 	//	ISO2022JPType DataCoding = 0x0A // ISO-2022-JP (Music Codes)
 	//	EXTJISType    DataCoding = 0x0D // Extended Kanji JIS (X 0212-1990)
 	//	KSC5601Type   DataCoding = 0x0E // KS C 5601
+	BinaryClass2Type DataCoding = 0x12 // Binary coding, class 2 (SIM/UISIM Specific)
 )
 
 // Codec defines a text codec.
