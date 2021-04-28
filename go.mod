@@ -1,4 +1,4 @@
-module github.com/KeithMilner/go-smppv2
+module github.com/KeithMilner/go-smpp/v2
 
 go 1.15
 
